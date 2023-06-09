@@ -1,4 +1,4 @@
-# Votae Microservices
+# Vote Microservices
 
 這是一個前後端分離的微服務專案。本專案使用了GitHub Actions作為CI/CD的工具，並且將前端和後端的部分分開進行開發和部署。
 
