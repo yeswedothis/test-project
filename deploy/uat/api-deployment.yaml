@@ -18,7 +18,7 @@ spec:
         vote-config-version: "bee931"
     spec:
       containers:
-      - image: yjring/vote-api:v1.0.0
+      - image: yjring/vote-api:v1.0.1
         name: vote-api
         imagePullPolicy: Always
         resources:
