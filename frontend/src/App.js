@@ -7,7 +7,6 @@ import ShowOptionList from './components/ShowOptionList';
 import ShowResults from './components/ShowResults';
 import ColorfulBackground from './components/ColorfulBackground';
 
-
 const App = () => {
 	const [ userId, setUserId ] = useState('');
 	const [ options, setOptions ] = useState([]);
