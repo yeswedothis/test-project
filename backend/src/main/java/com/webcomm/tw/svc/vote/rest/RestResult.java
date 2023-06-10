@@ -11,6 +11,7 @@ public class RestResult<T> implements Serializable {
     private T data;
 
     private LocalDateTime time;
+    
 
     public RestResult(String status, String message) {
         this.status = status;
